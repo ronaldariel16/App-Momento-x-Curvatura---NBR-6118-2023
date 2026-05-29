@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+shapely>=2.0
+streamlit>=1.32
+pandas>=2.0
+# tkinter viene incluido en la instalacion estandar de Python.
+# En Linux puede requerir: sudo apt install python3-tk
